@@ -1,4 +1,4 @@
-package us100;
+package hee;
 
 public class HeeClass {
 
